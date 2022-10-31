@@ -1,0 +1,11 @@
+Hello, I'm Learning Git!
+
+git status
+make changes in file
+git add filename.txt
+git commit -m "commiting changes"
+git push origin master
+
+
+git config user.name
+or git config --list

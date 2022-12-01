@@ -1,1 +1,2 @@
-Hi this is my first code file in git 
+Hi this is my first code file in giT
+I have made some changes in the file 
